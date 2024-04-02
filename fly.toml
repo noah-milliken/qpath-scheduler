@@ -1,4 +1,4 @@
-app = "scheduler-5a37"
+app = "qpath-scheduler"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
